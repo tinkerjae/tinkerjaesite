@@ -122,7 +122,7 @@ var postsArray = [
     {Link:"/Pages/Archive/Blog-11-9-24-2.html", Title:"Content creation is hard. Why?", Description:"A quick and dirty analysis on why, making projects and posting about them, is hard.", Date:"11/9/24", Tags:"",  All:true, Project:true, Article:false, Journal:false, Writing:false, Misc:false},
     {Link:"/Pages/Archive/Blog-11-9-24-1.html", Title:"Epiphany on motivation and hard work.", Description:"Just a big yap sesh and thoughts I had on hard work and long term happiness.", Date:"11/9/24", Tags:"",  All:true, Project:false, Article:false, Journal:true, Writing:false, Misc:false},
     {Link:"/Pages/Archive/Blog-11-11-24-1.html", Title:"Ambition and Patience.", Description:"Another quick insight.", Date:"11/11/24", Tags:"",  All:true, Project:false, Article:false, Journal:true, Writing:false, Misc:false},
-
+    {Link:"/Pages/Archive/Blog-12-30-24-1.html", Title:"Priorities", Description:"A small blog post on priorities.", Date:"12/30/24", Tags:"",  All:true, Project:false, Article:false, Journal:true, Writing:false, Misc:false}
     // ADD NEW POST HERE^^^^^^^^^^^^^
 ];
 
